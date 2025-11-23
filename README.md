@@ -1,26 +1,44 @@
-# Per Bergman — Generative Architect
+Per Bergman — Generative Architect
 
-**Generative Architect — AI • Cloud • Blockchain • Distributed Systems**  
-Senior Manager, EY · Santa Fe, NM · [LinkedIn](https://www.linkedin.com/in/perbergman/) · [Resume (PDF)](./path/to/resume.pdf)
+Generative Architect — AI • Cloud • Blockchain • Distributed Systems
+Senior Manager, EY · Santa Fe, NM
+LinkedIn￼ · Resume (PDF)￼
 
-I design and build high-ambiguity, high-complexity systems:  
-agentic AI workflows, blockchain platforms, and cloud-native distributed systems.
+I design and build high-ambiguity, high-complexity systems:
+agentic AI workflows, blockchain-backed platforms, and cloud-native distributed architectures.
+    •    🧠 30+ years in distributed systems — from telecom & OODBMS → cloud & blockchain → agentic AI
+    •    ⚡ 80+ AI-accelerated prototypes built in 2025
+    •    🧩 Deep in AI-assisted development (Claude Code, Cursor, Windsurf, Copilot, Augment)
+    •    🌍 Domains: FinTech, carbon markets, public funds traceability, decentralized identity, ZKP
+    •    🛠️ Build systems that real institutions can operate at scale
 
-- 🧠 30+ years in distributed systems, from telecom & OODBMS → cloud & blockchain → agentic AI
-- ⚡ 80+ generative prototypes in 2025 alone
-- 🧩 Deep in AI-assisted development (Claude Code, Cursor, Windsurf, Copilot, Augment)
-- 🌍 Domains: FinTech, carbon markets, public funds traceability, identity, ZKP
+⸻
 
----
+Selected Work
 
-## Selected Work
+Global Funds Disbursement Tracking — EY (2023–)
 
-- **Global Funds Disbursement Tracking (EY)** – Hyperledger Besu + Azure + AI  
-- **Carbon Market Traceability (XPANSIV)** – environmental commodities + ledger  
-- **ZKP Private Transactions** – Circom/Groth16, BN254, UTXO-style state  
-- **RAGTime** – [Neo4j + NVIDIA GPUs RAG article](https://medium.com/@bergman/ragtime-building-a-rag-with-neo4j-and-nvidia-gpus-on-the-cloud-31e11aa03000)
+Hyperledger Besu · Azure Functions · Service Bus · Postgres
+Agentic AI · secure ledger evolution · multi-institution transparency
 
-See more in:  
-- [system-alchemist](https://github.com/perbergman/system-alchemist) — architecture notes & experiments  
-- [GitHub profile](https://github.com/perbergman?tab=repositories) for public repos.
+Carbon Market Traceability — XPANSIV
 
+Environmental commodities provenance platform.
+Ledger-backed lifecycle tracking + DID/VC identity.
+
+Zero-Knowledge Private Transactions — EY
+
+Circom/Groth16 (BN254) · encrypted event flows ·
+UTXO-style private state · Pedersen commitments · on-chain verification.
+
+RAGTime: Neo4j + NVIDIA GPUs
+
+➡️ https://medium.com/@bergman/ragtime-building-a-rag-with-neo4j-and-nvidia-gpus-on-the-cloud-31e11aa03000
+
+⸻
+
+More Work
+    •    system-alchemist — architecture notebooks, experiments, design patterns
+https://github.com/perbergman/system-alchemist
+    •    All repositories
+https://github.com/perbergman?tab=repositories
