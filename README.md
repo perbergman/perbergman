@@ -6,11 +6,11 @@ LinkedIn￼ · Resume (PDF)￼
 
 I design and build high-ambiguity, high-complexity systems:
 agentic AI workflows, blockchain-backed platforms, and cloud-native distributed architectures.
-    •    🧠 30+ years in distributed systems — from telecom & OODBMS → cloud & blockchain → agentic AI
-    •    ⚡ 80+ AI-accelerated prototypes built in 2025
-    •    🧩 Deep in AI-assisted development (Claude Code, Cursor, Windsurf, Copilot, Augment)
-    •    🌍 Domains: FinTech, carbon markets, public funds traceability, decentralized identity, ZKP
-    •    🛠️ Build systems that real institutions can operate at scale
+	•	🧠 30+ years in distributed systems — from telecom & OODBMS → cloud & blockchain → agentic AI
+	•	⚡ 80+ AI-accelerated prototypes built in 2025
+	•	🧩 Deep in AI-assisted development (Claude Code, Cursor, Windsurf, Copilot, Augment)
+	•	🌍 Domains: FinTech, carbon markets, public funds traceability, decentralized identity, ZKP
+	•	🛠️ Build systems that real institutions can operate at scale
 
 ⸻
 
@@ -38,7 +38,6 @@ RAGTime: Neo4j + NVIDIA GPUs
 ⸻
 
 More Work
-    •    system-alchemist — architecture notebooks, experiments, design patterns
+	•	system-alchemist — architecture notebooks, experiments, design patterns
 https://github.com/perbergman/system-alchemist
-    •    All repositories
-https://github.com/perbergman?tab=repositories
+	•	All repositories
