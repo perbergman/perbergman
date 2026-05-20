@@ -9,7 +9,7 @@ agentic AI workflows, blockchain-backed platforms, and cloud-native distributed 
 
 - **30+ years in distributed systems** (telecom & OODBMS → cloud & blockchain → agentic AI)  
 - **80+ AI-accelerated prototypes built in 2025**  
-- **Deep in AI-assisted development** (Claude Code, Cursor, Windsurf, Copilot, Augment)  
+- **Deep in AI-assisted development** 
 - **Domains:** FinTech, carbon markets, public funds traceability, decentralized identity, ZKP  
 - **Focus:** building systems that real institutions can operate at scale  
 
@@ -43,7 +43,7 @@ Forth was designed as a 10× cognitive amplifier — a minimal language that gav
 
 Modern AI-assisted development is the continuation of that lineage.
 
-Tools like Claude Code, Cursor, Windsurf, Copilot, Augment, and Warp act as the contemporary equivalent of Forth:
+Agentic tools act as the contemporary equivalent of Forth:
 a friction-removal layer that expands what a single architect can create in short cycles.
 
 Where Forth provided:
